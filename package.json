@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-opentable-es5",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Standard eslint for opentable es5 projects",
   "main": "index.js",
   "scripts": {
