@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opentable/eslint-config-opentable-es5.git"
+    "url": "git+https://github.com/opentable/eslint-config-opentable-es5.git#SV-906"
   },
   "keywords": [
     "eslint"
