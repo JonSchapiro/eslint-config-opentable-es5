@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/opentable/eslint-config-opentable-es5#readme",
   "peerDependencies": {
-    "eslint-plugin-mocha-only": "0.0.3"
+    "eslint-plugin-mocha": "3.0.0"
   }
 }

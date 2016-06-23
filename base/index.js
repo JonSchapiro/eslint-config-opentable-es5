@@ -26,12 +26,12 @@ module.exports = {
     "templateStrings": true,
     "jsx": false
   },
-  "plugins": ['mocha-only'],
+  "plugins": ['mocha'],
   "rules": {
 /**
  * If only is present in test, complain
  */
-    "mocha-only/mocha-only": "error",
+    "mocha/no-exclusive-tests": "error",
     "custom-only": onlyPresent,
 
 /**
