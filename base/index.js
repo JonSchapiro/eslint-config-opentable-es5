@@ -1,3 +1,8 @@
+/**
+* Custom Rules
+**/
+var onlyPresent = require('../lib/rules/onlyPresent');
+
 module.exports = {
   "env": {
     "browser": true,
@@ -27,6 +32,7 @@ module.exports = {
  * If only is present in test, complain
  */
     "mocha-only/mocha-only": "error",
+    "custom-only": onlyPresent,
 
 /**
  * Strict mode
